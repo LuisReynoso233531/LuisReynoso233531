@@ -30,14 +30,6 @@ Ingeniero de Software enfocado en el desarrollo móvil de alto rendimiento. Con 
 
 ---
 
-### 📊 Estadísticas de GitHub
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=LuisReynoso233531&show_icons=true&theme=radical&count_private=true" alt="Estadísticas de GitHub" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=LuisReynoso233531&layout=compact&theme=radical" alt="Lenguajes más usados" />
-</p>
-
----
-
 ### 📫 Contacto & Redes
 - **LinkedIn:** [luis-reynoso-a5710328a](https://www.linkedin.com/in/luis-reynoso-a5710328a)[cite: 1]
 - **Email:** luis-reynoso2014@hotmail.com
