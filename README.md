@@ -31,5 +31,5 @@ Ingeniero de Software enfocado en el desarrollo móvil de alto rendimiento. Con 
 ---
 
 ### 📫 Contacto & Redes
-- **LinkedIn:** [luis-reynoso-a5710328a](https://www.linkedin.com/in/luis-reynoso-a5710328a)[cite: 1]
+- **LinkedIn:** [luis-reynoso-a5710328a](https://www.linkedin.com/in/luis-reynoso-a5710328a)
 - **Email:** luis-reynoso2014@hotmail.com
