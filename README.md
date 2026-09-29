@@ -7,7 +7,7 @@ Ingeniero de Software enfocado en el desarrollo móvil de alto rendimiento. Con 
 
 ### 🚀 Lo que hago actualmente
 - 🔭 **Media Aerea**: Desarrollando características en tiempo real (WebRTC, Socket.IO, geofencing) y plataformas ERP móviles.
-- 🛠️ **Proyectos Personales**: Creador de la app *D&D 5e Character & Tools*, disponible en [Google Play Store](https://play.google.com/store/apps/details?id=com.dnd5e.characterNTools)[cite: 1].
+- 🛠️ **Proyectos Personales**: Creador de la app *D&D 5e Character & Tools*, disponible en [Google Play Store](https://play.google.com/store/apps/details?id=com.dnd5e.characterNTools).
 - 🎓 **Educación**: Ingeniero en Software por el ITSON (Titulado).
 
 ---
